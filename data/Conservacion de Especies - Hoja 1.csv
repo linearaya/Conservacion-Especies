@@ -1,4 +1,4 @@
-Especie Id,Version,Reino,Division,Clase,Orden,Familia,Genero,Nombre Cientifico,Nombre Comun,Origen,Estado Conservacion
+especieId,version,reino,division,clase,orden,familia,genero,nombre-cientifico,nombre-comun,origen,estado-conservacion
 1828,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Aa,Aa nervosa,,Nativa,Vulnerable (VU)
 1071,1,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Acaena,Acaena masafuerana,,Nativa,En peligro crítico (CR)
 8249,1,Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Acalodegma,Acalodegma vidali,,Nativa,En Peligro (EN)
