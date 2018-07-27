@@ -1,5 +1,6 @@
-{
-  "a": {
+[
+  
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -12,7 +13,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "8": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -25,7 +26,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "9": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -38,7 +39,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "10": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -51,7 +52,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "13": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -64,7 +65,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Casi amenazada (NT), Vulnerable (VU)"
   },
-  "14": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -77,7 +78,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN), Rara"
   },
-  "16": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -90,7 +91,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "17": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -103,7 +104,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "20": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -116,7 +117,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "155": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -129,7 +130,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "156": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -142,7 +143,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "157": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -155,7 +156,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "158": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -168,7 +169,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Casi amenazada (NT), Insuficientemente Conocida, Vulnerable (VU)"
   },
-  "159": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -181,7 +182,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "160": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -194,7 +195,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "161": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -207,7 +208,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN), Preocupación menor (LC)"
   },
-  "740": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -220,7 +221,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Preocupación menor (LC), Vulnerable (VU)"
   },
-  "746": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -233,7 +234,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Insuficientemente Conocida, Preocupación menor (LC), Vulnerable (VU)"
   },
-  "755": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -246,7 +247,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "756": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -259,7 +260,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Preocupación menor (LC), Vulnerable (VU)"
   },
-  "759": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -272,7 +273,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Extinta (EX), Vulnerable (VU)"
   },
-  "760": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -285,7 +286,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "761": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -298,7 +299,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "762": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -311,7 +312,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "763": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -324,7 +325,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "764": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -337,7 +338,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "770": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -350,7 +351,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "771": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -363,7 +364,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "775": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -376,7 +377,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "776": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -389,7 +390,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "777": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -402,7 +403,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   },
-  "782": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -415,7 +416,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "785": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -428,7 +429,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "786": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -441,7 +442,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "787": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -454,7 +455,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En peligro crítico (CR)"
   },
-  "788": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -467,7 +468,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En peligro crítico (CR)"
   },
-  "789": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -480,7 +481,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Datos Insuficientes (DD), En Peligro (EN)"
   },
-  "800": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -493,7 +494,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "809": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -506,7 +507,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Insuficientemente Conocida, Preocupación menor (LC), Vulnerable (VU)"
   },
-  "811": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -519,7 +520,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Insuficientemente Conocida, Preocupación menor (LC), Vulnerable (VU)"
   },
-  "816": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -532,7 +533,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Datos Insuficientes (DD), Insuficientemente Conocida, Vulnerable (VU)"
   },
-  "2736": {
+ {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -545,7 +546,7 @@
     "origen": "Nativa",
     "estado-conservacion": "En peligro crítico (CR)"
   },
-  "2833": {
+ {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -558,7 +559,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "8160": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -571,7 +572,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Datos Insuficientes (DD), En Peligro (EN)"
   },
-  "8254": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -584,7 +585,7 @@
     "origen": "Nativa",
     "estado-conservacion": "Vulnerable (VU)"
   },
-  "8275": {
+  {
     "version": 1,
     "reino": "Animalia",
     "division": "Chordata",
@@ -597,4 +598,4 @@
     "origen": "Nativa",
     "estado-conservacion": "En Peligro (EN)"
   }
-}
+]
