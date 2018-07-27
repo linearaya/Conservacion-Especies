@@ -1,0 +1,47 @@
+especieId,version,reino,division,clase,orden,familia,genero,nombre-cientifico,nombre-comun,origen,estado-conservacion
+8160,1,Animalia,Chordata,Mammalia,Cetacea,Neobalaenidae,Caperea,Caperea marginata,Ballena Franca Pigmea,Nativa,"Datos Insuficientes (DD), En Peligro (EN)"
+2833,1,Animalia,Chordata,Mammalia,Xenarthra,Dasypodidae,Chaetophractus,Chaetophractus nationi,Quirquincho peludo de la Puna,Nativa,Vulnerable (VU)
+8254,1,Animalia,Chordata,Mammalia,Chiroptera,Furipteridae,Amorphochilus,Amorphochilus schnablii,Murciélago de Schnabel,Nativa,Vulnerable (VU)
+155,1,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,Arctocephalus philippii,Juan Fernandez fur seal,Nativa,Vulnerable (VU)
+740,1,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,Lycalopex culpaeus,Zorro culpeo,Nativa,"Preocupación menor (LC), Vulnerable (VU)"
+16,1,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,Lycalopex fulvipes,Zorro de Chiloé,Nativa,En Peligro (EN)
+760,1,Animalia,Chordata,Mammalia,Rodentia,Ctenomydae,Ctenomys,Ctenomys fulvus,Tuco-tuco de Atacama,Nativa,Vulnerable (VU)
+759,1,Animalia,Chordata,Mammalia,Rodentia,Ctenomydae,Ctenomys,Ctenomys magellanicus,Tuco-tuco de Magallanes,Nativa,"Extinta (EX), Vulnerable (VU)"
+770,1,Animalia,Chordata,Mammalia,Rodentia,Octodontidae,Octodon,Octodon lunatus,Degú costino,Nativa,Vulnerable (VU)
+771,1,Animalia,Chordata,Mammalia,Rodentia,Octodontidae,Octodontomys,Octodontomys gliroides,Soco,Nativa,Vulnerable (VU)
+7,1,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Hippocamelus,Hippocamelus antisensis,Taruca,Nativa,En Peligro (EN)
+8,1,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Hippocamelus,Hippocamelus bisulcus,Huemul,Nativa,En Peligro (EN)
+17,1,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Pudu,Pudu pudu,Pudú,Nativa,Vulnerable (VU)
+157,1,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Cephalorhynchus,Cephalorhynchus commersoni,Commerson's dolphin,Nativa,En Peligro (EN)
+158,1,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Cephalorhynchus,Cephalorhynchus eutropia,Delfín chileno,Nativa,"Casi amenazada (NT), Insuficientemente Conocida, Vulnerable (VU)"
+809,1,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Lagenorhynchus,Lagenorhynchus australis,Delfín austral,Nativa,"Insuficientemente Conocida, Preocupación menor (LC), Vulnerable (VU)"
+811,1,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Lagenorhynchus,Lagenorhynchus obscurus,Delfín obscuro,Nativa,"Insuficientemente Conocida, Preocupación menor (LC), Vulnerable (VU)"
+787,1,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera borealis,Ballena sei o Rorcual boreal,Nativa,En peligro crítico (CR)
+789,1,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera edeni,Ballena de Bryde,Nativa,"Datos Insuficientes (DD), En Peligro (EN)"
+156,1,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera musculus,Ballena azul,Nativa,En Peligro (EN)
+788,1,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera physalus,Ballena fin,Nativa,En peligro crítico (CR)
+160,1,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Megaptera,Megaptera novaeangliae,Ballena jorobada,Nativa,Vulnerable (VU)
+761,1,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Chinchilla,Chinchilla brevicaudata,Chinchilla cordillerana,Nativa,En Peligro (EN)
+2736,1,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Chinchilla,Chinchilla chinchilla,Chinchilla de cola corta,Nativa,En peligro crítico (CR)
+763,1,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Lagidium,Lagidium viscacia,Vizcacha,Nativa,En Peligro (EN)
+764,1,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Lagidium,Lagidium wolffsohni,Vizcacha austral,Nativa,Vulnerable (VU)
+762,1,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Chinchilla,Chinchilla lanigera,Chinchilla de cola larga,Nativa,En Peligro (EN)
+777,1,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Chinchillula,Chinchillula sahamae,Chinchillón,Nativa,En Peligro (EN)
+782,1,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Galenomys,Galenomys garleppi,Laucha nortina,Nativa,Vulnerable (VU)
+785,1,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Neotomys,Neotomys ebriosus,Ratón de hocico anaranjado,Nativa,Vulnerable (VU)
+786,1,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Phyllotis,Phyllotis osgoodi,Ratón orejudo de Osgood,Nativa,Vulnerable (VU)
+775,1,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Chelemys,Chelemys delfini,Ratón topo del Estrecho de Magallanes,Nativa,Vulnerable (VU)
+776,1,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Chelemys,Chelemys megalonyx,Ratón topo del matorral,Nativa,Vulnerable (VU)
+159,1,Animalia,Chordata,Mammalia,Cetacea,Balaenidae,Eubalaena,Eubalaena australis,Ballena franca austral,Nativa,En Peligro (EN)
+8275,1,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Histiotus,Histiotus laephotis,Murciélago orejudo de Thomas,Nativa,En Peligro (EN)
+756,1,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Lama,Lama guanicoe,Guanaco,Nativa,"Preocupación menor (LC), Vulnerable (VU)"
+13,1,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,Leopardus guigna,Güiña,Nativa,"Casi amenazada (NT), Vulnerable (VU)"
+14,1,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,Leopardus jacobita,Gato montés andino,Nativa,"En Peligro (EN), Rara"
+9,1,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lontra,Lontra felina,Chungungo,Nativa,Vulnerable (VU)
+10,1,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lontra,Lontra provocax,Huillín,Nativa,En Peligro (EN)
+746,1,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Mirounga,Mirounga leonina,Elefante marino,Nativa,"Insuficientemente Conocida, Preocupación menor (LC), Vulnerable (VU)"
+816,1,Animalia,Chordata,Mammalia,Cetacea,Phocoenidae,Phocoena,Phocoena spinipinnis,Marsopa espinosa,Nativa,"Datos Insuficientes (DD), Insuficientemente Conocida, Vulnerable (VU)"
+800,1,Animalia,Chordata,Mammalia,Cetacea,Physeteridae,Physeter,Physeter macrocephalus,Cachalote gigante,Nativa,Vulnerable (VU)
+20,1,Animalia,Chordata,Mammalia,Paucituberculata,Rhyncholestes,Caenolestidae,Rhyncholestes raphanurus,Comadrejita trompuda,Nativa,Vulnerable (VU)
+161,1,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Tursiops,Tursiops truncatus,Delfín nariz de botella,Nativa,"En Peligro (EN), Preocupación menor (LC)"
+755,1,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Vicugna,Vicugna vicugna,Vicuña,Nativa,En Peligro (EN)
